@@ -1,0 +1,1154 @@
+[
+    {
+        "id": "item_8f2a",
+        "title": "জন্ম নিবন্ধন চেক",
+        "url": "https://everify.bdris.gov.bd/",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "জন্ম নিবন্ধন তথ্য যাচাই"
+    },
+    {
+        "id": "item_9d1b",
+        "title": "জাতীয় পরিচয়পত্র নতুন আবেদন",
+        "url": "https://services.nidw.gov.bd/nid-pub/",
+        "category": "nid-card",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/ec.png",
+        "type": "free",
+        "description": "NID নতুন আবেদন / ডাউনলোড / সংশোধন"
+    },
+    {
+        "id": "item_3c7e",
+        "title": "জন্ম নিবন্ধন সংশোধন এর আবেদন",
+        "url": "https://bdris.gov.bd/",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "জন্ম নিবন্ধনে তথ্য সংশোধন"
+    },
+    {
+        "id": "item_4a9f",
+        "title": "নতুন জন্ম নিবন্ধন এর আবেদন",
+        "url": "https://bdris.gov.bd/",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "নতুন জন্ম নিবন্ধন আবেদন"
+    },
+    {
+        "id": "item_5b2c",
+        "title": "NID Wallet",
+        "url": "https://play.google.com/store/apps/details?id=bd.gov.nidw.nid.wallet",
+        "category": "nid-card",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/ec.png",
+        "type": "free",
+        "description": "NID ওয়ালেট অ্যাপ ডাউনলোড"
+    },
+    {
+        "id": "item_6d8e",
+        "title": "খতিয়ান ডাউনলোড",
+        "url": "https://dlrms.land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "নামজারি ও সার্ভে খতিয়ান চেক ও ডাউনলোড"
+    },
+    {
+        "id": "item_7f1a",
+        "title": "সাদা কলো ছবি থেকে রঙিন",
+        "url": "https://www.aiease.ai",
+        "category": "studio-tools",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "aiease – কালো-সাদা ছবি কালার করুন"
+    },
+    {
+        "id": "item_8g3b",
+        "title": "পুলিশ ক্লিয়ারেন্স এর আবেদন",
+        "url": "https://pcc.police.gov.bd/ords/r/pcc/pcc/home",
+        "category": "police-pub",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/01/police.png",
+        "type": "free",
+        "description": "পুলিশ ক্লিয়ারেন্স সার্টিফিকেট আবেদন (সরকারি ফি ১৫০০/-)"
+    },
+    {
+        "id": "item_9h4c",
+        "title": "বিন সার্টিফিকেট ডাউনলোড",
+        "url": "https://nbr.gov.bd/fourteen-digit-bin-search/ban",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "ই-বিন সার্টিফিকেট ডাউনলোড"
+    },
+    {
+        "id": "item_0i5d",
+        "title": "ড্রাইভিং লাইসেন্স ম্যানুয়াল",
+        "url": "https://brta.gov.bd/site/page/...",
+        "category": "driving-li",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/brta.jpg",
+        "type": "free",
+        "description": "ড্রাইভিং লাইসেন্স নিয়ম-কানুন"
+    },
+    {
+        "id": "item_1j6e",
+        "title": "বয়স্ক, বিধবা, প্রতিবন্ধী ভাতা আবেদন",
+        "url": "https://dss.bhata.gov.bd/online-application",
+        "category": "vata-gov",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/dss-logo-e1762198189967.png",
+        "type": "free",
+        "description": "বয়স্ক/বিধবা/প্রতিবন্ধী ভাতা আবেদন"
+    },
+    {
+        "id": "item_2k7f",
+        "title": "ফটোশপ একশন ডাউনলোড",
+        "url": "https://itlancerbd.com/wp-content/uploads/2026/01/Actions-For-Photoshop.zip",
+        "category": "studio-tools",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2026/01/ps.jpg",
+        "type": "free",
+        "description": "পাসপোর্ট সাইজ, বর্ডার, লেয়ার কপি একশন (F3-F12)"
+    },
+    {
+        "id": "item_3l8g",
+        "title": "ট্রেনের টিকেট বুকিং",
+        "url": "https://eticket.railway.gov.bd/",
+        "category": "ticket",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/01/dsfasdf.jpg",
+        "type": "free",
+        "description": "রেলওয়ে ই-টিকেট বুকিং"
+    },
+    {
+        "id": "item_4m9h",
+        "title": "মাধ্যমিক উচ্চ মাধ্যমিক সকল নোটিশ",
+        "url": "",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/11/dshe-e1763233397542.png",
+        "type": "free",
+        "description": "DSHE সকল নোটিশ"
+    },
+    {
+        "id": "item_5n0i",
+        "title": "স্মার্ট ভূমি নকশা",
+        "url": "https://map.land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/vumi-logo.png",
+        "type": "free",
+        "description": "ডিজিটাল ভূমি নকশা ম্যাপ ডাউনলোড"
+    },
+    {
+        "id": "item_6o1j",
+        "title": "কর পরিশোধ",
+        "url": "https://lsg-land-owner.land.gov.bd/login",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/Land_Logo_live.jpg",
+        "type": "free",
+        "description": "ভূমি উন্নয়ন কর অনলাইন পরিশোধ"
+    },
+    {
+        "id": "item_7p2k",
+        "title": "মৃত্যু নিবন্ধন এর আবেদন",
+        "url": "https://bdris.gov.bd/dr/application",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "মৃত্যু নিবন্ধন আবেদন"
+    },
+    {
+        "id": "item_8q3l",
+        "title": "বিদ্যুৎ মিটারের জন্য আবেদন (নতুন)",
+        "url": "https://newconnection.rebpbs.com/NewConnectionApplication/Apply",
+        "category": "electricity",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/polli-bidut.png",
+        "type": "free",
+        "description": "নতুন বিদ্যুৎ সংযোগ আবেদন"
+    },
+    {
+        "id": "item_9r4m",
+        "title": "ম্যান পাওয়ার ডাউনলোড",
+        "url": "https://raims.oep.gov.bd/agencies/ec-card-check",
+        "category": "probasi",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-2.png",
+        "type": "free",
+        "description": "ম্যানপাওয়ার কার্ড / ডাউনলোড"
+    },
+    {
+        "id": "item_0s5n",
+        "title": "পাসপোর্টের আবেদন",
+        "url": "https://www.epassport.gov.bd/onboarding",
+        "category": "passport",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-right-sm.png",
+        "type": "free",
+        "description": "অনলাইন পাসপোর্ট আবেদন"
+    },
+    {
+        "id": "item_1t6o",
+        "title": "রিমোভ বিজি",
+        "url": "https://www.remove.bg/",
+        "category": "studio-tools",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "ব্যাকগ্রাউন্ড রিমুভ টুল"
+    },
+    {
+        "id": "item_2u7p",
+        "title": "টিসিবি ওয়েবসাইট",
+        "url": "https://tcbsheba.com/",
+        "category": "vata-gov",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "টিসিবি পণ্য / সেবা"
+    },
+    {
+        "id": "item_3v8q",
+        "title": "ড্রাইভিং লাইসেন্স এর আবেদন",
+        "url": "https://bsp.brta.gov.bd/register",
+        "category": "driving-li",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/brta.jpg",
+        "type": "free",
+        "description": "লার্নার / ড্রাইভিং লাইসেন্স আবেদন"
+    },
+    {
+        "id": "item_4w9r",
+        "title": "উন্মুক্ত বিশ্ববিদ্যালয় ভর্তি আবেদন",
+        "url": "https://osapsnew.bou.ac.bd/",
+        "category": "open-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/02/open.png",
+        "type": "free",
+        "description": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় ভর্তি"
+    },
+    {
+        "id": "item_5x0s",
+        "title": "ইমেজ রিসাইজার",
+        "url": "https://imageresizer.com/",
+        "category": "studio-tools",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "অনলাইন ইমেজ সাইজ পরিবর্তন"
+    },
+    {
+        "id": "item_6y1t",
+        "title": "অনলাইন প্রত্যয়ন",
+        "url": "https://prottoyon.gov.bd/",
+        "category": "police-pub",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-1.jpg",
+        "type": "free",
+        "description": "অনলাইন চারিত্রিক সনদ / প্রত্যয়ন"
+    },
+    {
+        "id": "item_7z2u",
+        "title": "বিমান বাংলাদেশ এয়ার টিকেট",
+        "url": "https://www.biman-airlines.com/",
+        "category": "ticket",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/03/biman_logo.png",
+        "type": "free",
+        "description": "বিমান বাংলাদেশ এয়ারলাইন্স টিকেট"
+    },
+    {
+        "id": "item_8a3v",
+        "title": "টিন সার্টিফিকেট ডাউনলোড",
+        "url": "https://secure.incometax.gov.bd/Registration/Login",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "টিন সার্টিফিকেট ডাউনলোড"
+    },
+    {
+        "id": "item_9b4w",
+        "title": "নামজারির আবেদন",
+        "url": "https://mutation.land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/Land_Logo_live.jpg",
+        "type": "free",
+        "description": "ভূমি নামজারি আবেদন"
+    },
+    {
+        "id": "item_0c5x",
+        "title": "ইমেজ কনভাটার",
+        "url": "https://image.online-convert.com/convert-to-jpg",
+        "category": "studio-tools",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "অনলাইন ইমেজ ফরম্যাট কনভার্ট"
+    },
+    {
+        "id": "item_1d6y",
+        "title": "BOESL",
+        "url": "https://brms.boesl.gov.bd",
+        "category": "probasi",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo_big.jpg",
+        "type": "free",
+        "description": "বোয়েসেল (প্রবাসী কর্মসংস্থান)"
+    },
+    {
+        "id": "item_2e7z",
+        "title": "অনলাইন জিডির আবেদন",
+        "url": "https://gd.police.gov.bd/auth/account/login",
+        "category": "police-pub",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/LFLOG.png",
+        "type": "free",
+        "description": "অনলাইন সাধারণ ডায়েরি (জিডি)"
+    },
+    {
+        "id": "item_3f8a",
+        "title": "খাদ্য ব্যবস্থাপনা পর্যাবেক্ষন সিস্টেম",
+        "url": "https://fsmms.dgf.gov.bd/portal/bn/farmer/registration-verification",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/খাদ্য-অধিদপ্তর-এ-নিয়োগ-DGFOOD-300x300.png",
+        "type": "free",
+        "description": "খাদ্য অধিদপ্তর পর্যবেক্ষণ সিস্টেম"
+    },
+    {
+        "id": "item_4g9b",
+        "title": "সৌদি ভিসা চেক",
+        "url": "https://visa.mofa.gov.sa/Home/Index",
+        "category": "visa",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "সৌদি আরব ভিসা স্ট্যাটাস চেক"
+    },
+    {
+        "id": "item_5h0c",
+        "title": "প্রবাসী ট্রেনিং টিটিসি আবেদন",
+        "url": "https://employee.oep.gov.bd/employee/registration",
+        "category": "probasi",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-2.png",
+        "type": "free",
+        "description": "প্রবাসীদের প্রশিক্ষণ আবেদন"
+    },
+    {
+        "id": "item_6i1d",
+        "title": "মৃত্যু নিবন্ধন চেক",
+        "url": "https://everify.bdris.gov.bd/UDRNVerification",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "মৃত্যু নিবন্ধন তথ্য যাচাই"
+    },
+    {
+        "id": "item_7j2e",
+        "title": "SSC রেজাল্ট সকল বোর্ড নাম্বারসহ",
+        "url": "https://eboardresults.com/v2/home",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "SSC রেজাল্ট (সকল বোর্ড)"
+    },
+    {
+        "id": "item_8k3f",
+        "title": "পাসপোর্টের অবস্থান যাচাই",
+        "url": "https://www.epassport.gov.bd/authorization/application-status",
+        "category": "passport",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-right-sm.png",
+        "type": "free",
+        "description": "পাসপোর্ট আবেদন স্ট্যাটাস চেক"
+    },
+    {
+        "id": "item_9l4g",
+        "title": "সৌদি ভিসা চেক-2",
+        "url": "https://visa.mofa.gov.sa/VisaPerson/GetApplicantData",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/dfasdfasfd.jpg",
+        "type": "free",
+        "description": "সৌদি ভিসা স্ট্যাটাস (অল্টারনেট)"
+    },
+    {
+        "id": "item_0m5h",
+        "title": "বাসের টিকেট বুকিং",
+        "url": "https://www.shohoz.com/bus-tickets",
+        "category": "ticket",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/shohoz_logo_new.png",
+        "type": "free",
+        "description": "সহজ ডট কম – বাস টিকেট"
+    },
+    {
+        "id": "item_1n6i",
+        "title": "প্রবাসী ট্রেনিং সার্টিফিকেট ডাউনলোড",
+        "url": "https://training.oep.gov.bd/pdo-certificate",
+        "category": "probasi",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-2.png",
+        "type": "free",
+        "description": "প্রবাসী প্রশিক্ষণ সার্টিফিকেট"
+    },
+    {
+        "id": "item_2o7j",
+        "title": "ই রিটার্ন ভেরিফাই",
+        "url": "https://etaxnbr.gov.bd/#/submission-verification",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "ইনকাম ট্যাক্স রিটার্ন চেক"
+    },
+    {
+        "id": "item_3p8k",
+        "title": "ইন্ডিয়ান ভিসার আবেদন",
+        "url": "https://indianvisa-bangladesh.nic.in/visa/",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2026/01/dfsadf.jpg",
+        "type": "free",
+        "description": "ইন্ডিয়ান ভিসা এপ্লাই"
+    },
+    {
+        "id": "item_4q9l",
+        "title": "জাতীয় বিশ্ববিদ্যালয় সকল রেজাল্ট",
+        "url": "http://103.113.200.7/",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU Degree / Honours / Masters রেজাল্ট"
+    },
+    {
+        "id": "item_5r0m",
+        "title": "প্রাথমিক সকল নোটিশ",
+        "url": "https://www.dpe.gov.bd/site/view/notices",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/12/primary_logo-300x300.png",
+        "type": "free",
+        "description": "প্রাথমিক শিক্ষা অধিদপ্তর সকল নোটিশ"
+    },
+    {
+        "id": "item_6s1n",
+        "title": "বিদ্যুতের মিটারের জন্য আবেদন",
+        "url": "http://www.rebpbs.com/UI/App/frm_main_application.aspx",
+        "category": "electricity",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/polli-bidut.png",
+        "type": "free",
+        "description": "পল্লী বিদ্যুৎ মিটার আবেদন"
+    },
+    {
+        "id": "item_7t2o",
+        "title": "কভিড-19 সনদ ডাউনলোড",
+        "url": "https://surokkha.gov.bd/",
+        "category": "vax",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/surokkha-logo-copy.jpg",
+        "type": "free",
+        "description": "করোনা টিকা সনদ ডাউনলোড"
+    },
+    {
+        "id": "item_8u3p",
+        "title": "প্রবাসি ট্রেনিং ভর্তি কার্ড ডাউনলোড",
+        "url": "https://training.oep.gov.bd/pdo-enrollment-card",
+        "category": "probasi",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-2.png",
+        "type": "free",
+        "description": "প্রবাসী প্রশিক্ষণ ভর্তি কার্ড"
+    },
+    {
+        "id": "item_9v4q",
+        "title": "উন্মুক্ত বিশ্ববিদ্যালয় রেজাল্ট",
+        "url": "https://result.bou.ac.bd/",
+        "category": "open-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/02/open.png",
+        "type": "free",
+        "description": "BOU সকল রেজাল্ট"
+    },
+    {
+        "id": "item_0w5r",
+        "title": "টিন এর নতুন আবেদন",
+        "url": "https://secure.incometax.gov.bd/Registration/Index",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "নতুন টিন সার্টিফিকেট আবেদন"
+    },
+    {
+        "id": "item_1x6s",
+        "title": "অনলাইনে বেতন নির্ধারণী",
+        "url": "https://ibas.finance.gov.bd/Fixation/Fixation/FixationType",
+        "category": "govt-empl",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "বেতন নির্ধারণ / ফিক্সেশন / ইনক্রিমেন্ট"
+    },
+    {
+        "id": "item_2y7t",
+        "title": "জিপিএফ-পেনশন",
+        "url": "https://www.cafopfm.gov.bd/index.php",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "জিপিএফ / পেনশন তথ্য"
+    },
+    {
+        "id": "item_3z8u",
+        "title": "টায়ফয়েড-HPV টিকা নিবন্ধন",
+        "url": "https://vaxepi.gov.bd/",
+        "category": "vax",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/08/logo_2-270x300.jpg",
+        "type": "free",
+        "description": "টায়ফয়েড ও HPV টিকা রেজিস্ট্রেশন"
+    },
+    {
+        "id": "item_4a9v",
+        "title": "জেলেদের নিবন্ধন ও পরিচয়পত্র প্যানেল",
+        "url": "http://fisherid.fisheries.gov.bd/",
+        "category": "govt-empl",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "মৎস্যজীবী নিবন্ধন ও আইডি কার্ড"
+    },
+    {
+        "id": "item_5b0w",
+        "title": "সৌদি-গামকা মেডিকেল রিপোর্ট",
+        "url": "https://wafid.com/medical-status-search/",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/GAMCA-Guide-Official-Logo.png",
+        "type": "free",
+        "description": "গামকা / ওয়াফিদ মেডিকেল স্ট্যাটাস"
+    },
+    {
+        "id": "item_6c1x",
+        "title": "jpg to pdf",
+        "url": "https://www.ilovepdf.com/jpg_to_pdf",
+        "category": "studio-tools",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2026/01/images-1.png",
+        "type": "free",
+        "description": "JPG থেকে PDF কনভার্ট"
+    },
+    {
+        "id": "item_7d2y",
+        "title": "মুক্তিযোদ্ধা ই এম আই এস ডাউনলোড",
+        "url": "https://mis.molwa.gov.bd/freedom-fighter-list",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ff-mukti.png",
+        "type": "free",
+        "description": "মুক্তিযোদ্ধা EMIS সনদ (ছবিসহ)"
+    },
+    {
+        "id": "item_8e3z",
+        "title": "HSC রেজাল্ট সকল বোর্ড নাম্বারসহ",
+        "url": "https://eboardresults.com/v2/home",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "HSC রেজাল্ট (সকল বোর্ড)"
+    },
+    {
+        "id": "item_9f4a",
+        "title": "এ চালান",
+        "url": "https://www.achallan.gov.bd/acs/v2/general/challan-payment",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/12/new_logo.png",
+        "type": "free",
+        "description": "সরকারি পেমেন্ট – A-Challan"
+    },
+    {
+        "id": "item_0g5b",
+        "title": "ভ্যাট রেজিস্টেশন",
+        "url": "https://vat.gov.bd/sap/bc/ui5_ui5/sap/zmcf_pri/index.html#/Form/U010",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "VAT রেজিস্ট্রেশন"
+    },
+    {
+        "id": "item_1h6c",
+        "title": "রাজশাহী কলেজ ভর্তি ও ফরম ফিলাপ",
+        "url": "https://rc.gov.bd/admission-formfillup/",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo.png",
+        "type": "free",
+        "description": "রাজশাহী কলেজ ভর্তি"
+    },
+    {
+        "id": "item_2i7d",
+        "title": "সৌদি আরব মোফা চেক",
+        "url": "https://visa.mofa.gov.sa/visaperson/getapplicantdata",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/dfasdfasfd.jpg",
+        "type": "free",
+        "description": "MOFA সৌদি ভিসা চেক"
+    },
+    {
+        "id": "item_3j8e",
+        "title": "প্রাথমিক/ইবতেদায়ী শিক্ষা সমাপনী রেজাল্ট",
+        "url": "http://180.211.137.51/",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/12/primary_logo-300x300.png",
+        "type": "free",
+        "description": "পিইসি / ইবতেদায়ী রেজাল্ট"
+    },
+    {
+        "id": "item_4k9f",
+        "title": "ডিগ্রি অনার্স মাস্টার্স ফরম ফিলাপ",
+        "url": "http://ems.nu.ac.bd/student-login",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU ফরম ফিলাপ"
+    },
+    {
+        "id": "item_5l0g",
+        "title": "সৌদি ওকালা চেক",
+        "url": "https://visa.mofa.gov.sa/Enjaz/GetVisaInformation/Person",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/dfasdfasfd.jpg",
+        "type": "free",
+        "description": "সৌদি ওকালা / Enjaz চেক"
+    },
+    {
+        "id": "item_6m1h",
+        "title": "7 কলেজ রেজাল্ট আর্কাইভ",
+        "url": "https://result.7college.du.ac.bd/",
+        "category": "national-uni",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "ঢাকা বিশ্ববিদ্যালয় ৭ কলেজ রেজাল্ট"
+    },
+    {
+        "id": "item_7n2i",
+        "title": "জাতীয় বিশ্ববিদ্যালয় আপডেট নোটিশ",
+        "url": "https://www.nu.ac.bd/examination-notice.php",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU সর্বশেষ নোটিশ"
+    },
+    {
+        "id": "item_8o3j",
+        "title": "ডিগ্রি ভর্তি নিশ্চয়ন",
+        "url": "http://app55.nu.edu.bd/nu-web/applicantLogin.action?degreeName=Degree%20Pass",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU ডিগ্রি ভর্তি নিশ্চয়ন"
+    },
+    {
+        "id": "item_9p4k",
+        "title": "ফাজিল রেজাল্ট (ইসলামি আরবি বিশ্ববিদ্যালয়)",
+        "url": "http://result.iau.edu.bd/",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/iau-logo.png",
+        "type": "free",
+        "description": "IAU ফাজিল রেজাল্ট"
+    },
+    {
+        "id": "item_0q5l",
+        "title": "কাতার ভিসা চেক",
+        "url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices/enquiryandprinting",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/382025428466-copy.jpg",
+        "type": "free",
+        "description": "কাতার MOI ভিসা স্ট্যাটাস"
+    },
+    {
+        "id": "item_1r6m",
+        "title": "পপুলার ডাক্তার সিরিয়াল",
+        "url": "https://appointment.populardiagnostic.com/appointment",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/popular-Itlancer.png",
+        "type": "free",
+        "description": "পপুলার ডায়াগনস্টিক সিরিয়াল"
+    },
+    {
+        "id": "item_2s7n",
+        "title": "কভিড টেস্ট রেজাল্ট",
+        "url": "https://covid19reports.dghs.gov.bd/",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/surokkha-logo-copy.jpg",
+        "type": "free",
+        "description": "কোভিড টেস্ট রিপোর্ট চেক"
+    },
+    {
+        "id": "item_3t8o",
+        "title": "ইডুকেশন বোর্ড রেজাল্ট JSC-SSC-HSC-BTEB",
+        "url": "http://www.educationboardresults.gov.bd/",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "শিক্ষা বোর্ড রেজাল্ট (JSC/SSC/HSC/BTEB)"
+    },
+    {
+        "id": "item_4u9p",
+        "title": "মুক্ত পাঠ সার্টিফিকেট",
+        "url": "https://muktopaath.gov.bd/login",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-muktopaath.a851287.png",
+        "type": "free",
+        "description": "মুক্তপাঠ সার্টিফিকেট ডাউনলোড"
+    },
+    {
+        "id": "item_5v0q",
+        "title": "ইবনে সিনা ডাক্তার সিরিয়াল",
+        "url": "https://www.ibnsinatrust.com/find_a_doctor.php",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/IBN-SINA-LOGO-254x300.jpg",
+        "type": "free",
+        "description": "ইবনে সিনা ট্রাস্ট ডাক্তার অ্যাপয়েন্টমেন্ট"
+    },
+    {
+        "id": "item_6w1r",
+        "title": "মালয়েশিয়া মেডিকেল রিপোর্ট",
+        "url": "https://wafid.com/medical-status-search/",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/jim.png",
+        "type": "free",
+        "description": "মালয়েশিয়া মেডিকেল স্ট্যাটাস"
+    },
+    {
+        "id": "item_7x2s",
+        "title": "মুক্তিযোদ্ধা গেজেট ডাউনলোড",
+        "url": "http://ff.molwa.gov.bd/ps",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ff-mukti.png",
+        "type": "free",
+        "description": "মুক্তিযোদ্ধা গেজেট ডাউনলোড"
+    },
+    {
+        "id": "item_8y3t",
+        "title": "জাতীয় বিশ্ববিদ্যালয় ভর্তি আবেদন",
+        "url": "http://app1.nu.edu.bd/nu-web/applicantLogin.action?degreeName=Honours",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU ভর্তি আবেদন"
+    },
+    {
+        "id": "item_9z4u",
+        "title": "কাতার ছুটির মেয়াদ চেক",
+        "url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/exitservices/returnpermitprint",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/382025428466-copy.jpg",
+        "type": "free",
+        "description": "কাতার রিটার্ন পারমিট / ছুটি চেক"
+    },
+    {
+        "id": "item_0a5v",
+        "title": "অনার্স ভর্তি কনফার্ম",
+        "url": "http://app11.nu.edu.bd/nu-web/applicantLogin.action?degreeName=Honours",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU অনার্স ভর্তি নিশ্চয়ন"
+    },
+    {
+        "id": "item_1b6w",
+        "title": "পপুলার টেস্ট রিপোর্ট",
+        "url": "https://www.populardiagnostic.com/patient_portal",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/popular-Itlancer.png",
+        "type": "free",
+        "description": "পপুলার ডায়াগনস্টিক টেস্ট রিপোর্ট"
+    },
+    {
+        "id": "item_2c7x",
+        "title": "কারিগরি শিক্ষা বোর্ড ডিপ্লোমা রেজাল্ট",
+        "url": "http://180.211.162.102:8444/result_arch/index.php",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/03/image-27207-1636462193.jpg",
+        "type": "free",
+        "description": "BTEB ডিপ্লোমা রেজাল্ট"
+    },
+    {
+        "id": "item_3d8y",
+        "title": "কাতার মেডিকেল স্টেটাস চেক",
+        "url": "https://qatarmedicalcenter.com/status-check",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/fff.jpg",
+        "type": "free",
+        "description": "কাতার মেডিকেল স্ট্যাটাস"
+    },
+    {
+        "id": "item_4e9z",
+        "title": "মুক্তিযোদ্ধা সমন্বিত তালিকা ডাউনলোড",
+        "url": "https://mis.molwa.gov.bd/combined-list",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ff-mukti.png",
+        "type": "free",
+        "description": "মুক্তিযোদ্ধা সমন্বিত খসড়া তালিকা"
+    },
+    {
+        "id": "item_5f0a",
+        "title": "ওমান ভিসা চেক",
+        "url": "https://evisa.rop.gov.om/en/track-your-application",
+        "category": "visa",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ESpbm32X0AA3emE.jpg",
+        "type": "free",
+        "description": "ওমান ই-ভিসা স্ট্যাটাস"
+    },
+    {
+        "id": "item_6g1b",
+        "title": "নাম সংশোধন কুমিল্লা বোর্ড",
+        "url": "https://www.nu.ac.bd/examination-notice.php",
+        "category": "education-bord",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "কুমিল্লা বোর্ড নাম সংশোধন"
+    },
+    {
+        "id": "item_7h2c",
+        "title": "অনার্স ডিগ্রি বোর্ড চ্যালেন্জ",
+        "url": "http://103.113.200.36/PAMS/ICTUnit/Re_scrutiny.aspx",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU বোর্ড চ্যালেঞ্জ / রি-স্ক্রুটিনি"
+    },
+    {
+        "id": "item_8i3d",
+        "title": "ডকুমেন্ট ট্রান্সলেট",
+        "url": "https://translate.google.com/?sl=ar&tl=bn&op=docs",
+        "category": "studio-tools",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2026/01/d.png",
+        "type": "free",
+        "description": "PDF/JPG সরাসরি আরবি→বাংলা ট্রান্সলেট"
+    },
+    {
+        "id": "item_9j4e",
+        "title": "স্কয়ার হসপিটাল ডাক্তার সিরিয়াল",
+        "url": "https://www.squarehospital.com/doctors",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/square-group-logo.png",
+        "type": "free",
+        "description": "স্কয়ার হাসপাতাল ডাক্তার অ্যাপয়েন্টমেন্ট"
+    },
+    {
+        "id": "item_0k5f",
+        "title": "SSC রেজাল্ট কুমিল্লা বোর্ড নাম্বার সহ",
+        "url": "https://result19.comillaboard.gov.bd/2025/individual/index_reg1.php",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo.png",
+        "type": "free",
+        "description": "কুমিল্লা বোর্ড SSC রেজাল্ট (নম্বরসহ)"
+    },
+    {
+        "id": "item_1l6g",
+        "title": "মুক্তিযোদ্ধা কল্যাণ ট্রাস্ট",
+        "url": "https://tmis.bffwt.gov.bd/tatthoform/",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo.jpg",
+        "type": "free",
+        "description": "মুক্তিযোদ্ধা কল্যাণ ট্রাস্ট ফর্ম"
+    },
+    {
+        "id": "item_2m7h",
+        "title": "কাতার মেডিকেল এপোএনমেন্ট",
+        "url": "https://www.qatarvisacenter.com/home",
+        "category": "medical",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/fff.jpg",
+        "type": "free",
+        "description": "কাতার মেডিকেল অ্যাপয়েন্টমেন্ট"
+    },
+    {
+        "id": "item_3n8i",
+        "title": "HSC রেজাল্ট কুমিল্লা নাম্বারসহ",
+        "url": "https://hscresult.comillaboard.gov.bd/h_rr25/index_reg.php",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo.png",
+        "type": "free",
+        "description": "কুমিল্লা বোর্ড HSC রেজাল্ট (নম্বরসহ)"
+    },
+    {
+        "id": "item_4o9j",
+        "title": "মুক্তিযোদ্ধা মন্ত্রণালয় নোটিশ",
+        "url": "https://molwa.gov.bd/site/view/notices",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ff-mukti.png",
+        "type": "free",
+        "description": "মুক্তিযোদ্ধা মন্ত্রণালয় সকল নোটিশ"
+    },
+    {
+        "id": "item_5p0k",
+        "title": "জগন্নাথ ইউনিভার্সিটি প্রবেশ পত্র",
+        "url": "https://jnuadmission.com/preliminary/login/10a32abfaee7d7a54d75be1aa4794b4544187abe.jsp",
+        "category": "public-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/11/dsfsdfs.png",
+        "type": "free",
+        "description": "JNU প্রবেশপত্র ডাউনলোড"
+    },
+    {
+        "id": "item_6q1l",
+        "title": "মুক্তিযোদ্ধা জামুকা নোটিশ",
+        "url": "https://jamuka.gov.bd/site/view/notices",
+        "category": "freedom-fighter",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/ff-mukti.png",
+        "type": "free",
+        "description": "জামুকা মুক্তিযোদ্ধা নোটিশ"
+    },
+    {
+        "id": "item_7r2m",
+        "title": "পিডিএফ এর সাইজ ছোট করা",
+        "url": "https://www.ilovepdf.com/compress_pdf",
+        "category": "studio-tools",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2026/01/images-1.png",
+        "type": "free",
+        "description": "Compress PDF – ফাইল সাইজ কমানো"
+    },
+    {
+        "id": "item_8s3n",
+        "title": "সিঙ্গাপুর Arrival Card",
+        "url": "https://eservices.ica.gov.sg/sgarrivalcard/ltp",
+        "category": "visa",
+        "imageurl": "data:image/svg+xml;utf8,...",
+        "type": "free",
+        "description": "সিঙ্গাপুর এন্ট্রি Arrival Card ফর্ম"
+    },
+    {
+        "id": "item_b01",
+        "title": "জন্ম নিবন্ধন ইংরেজি ভার্সন",
+        "url": "https://everify.bdris.gov.bd/",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "Birth certificate English version print"
+    },
+    {
+        "id": "item_b02",
+        "title": "এসএসসি বোর্ড চ্যালেঞ্জ",
+        "url": "https://www.educationboard.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "SSC re-scrutiny / board challenge apply"
+    },
+    {
+        "id": "item_b03",
+        "title": "HSC বোর্ড চ্যালেঞ্জ",
+        "url": "https://www.educationboard.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "HSC re-scrutiny / challenge application"
+    },
+    {
+        "id": "item_b04",
+        "title": "পল্লী বিদ্যুৎ বিল পরিশোধ",
+        "url": "https://pbsbilling.palli-bidyut.gov.bd/",
+        "category": "electricity",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/polli-bidut.png",
+        "type": "free",
+        "description": "PBS electricity bill pay online"
+    },
+    {
+        "id": "item_b05",
+        "title": "ডেসকো বিল পরিশোধ",
+        "url": "https://www.desco.org.bd/",
+        "category": "electricity",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/polli-bidut.png",
+        "type": "free",
+        "description": "DESCO prepaid/postpaid bill payment"
+    },
+    {
+        "id": "item_b06",
+        "title": "ঢাকা ওয়াসা বিল",
+        "url": "https://dwasa.org.bd/",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "Dhaka WASA water bill check & pay"
+    },
+    {
+        "id": "item_b07",
+        "title": "অনলাইন ট্রেড লাইসেন্স",
+        "url": "https://www.rajuk.gov.bd/",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "Trade license renewal & new application"
+    },
+    {
+        "id": "item_b08",
+        "title": "ই-পাসপোর্ট স্ট্যাটাস",
+        "url": "https://www.epassport.gov.bd/",
+        "category": "passport",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-right-sm.png",
+        "type": "free",
+        "description": "e-Passport application status check"
+    },
+    {
+        "id": "item_b09",
+        "title": "BRTA গাড়ির ট্যাক্স",
+        "url": "https://www.brta.gov.bd/",
+        "category": "driving-li",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/brta.jpg",
+        "type": "free",
+        "description": "Vehicle tax & fitness online payment"
+    },
+    {
+        "id": "item_b10",
+        "title": "অনলাইন জন্ম নিবন্ধন প্রিন্ট",
+        "url": "https://bdris.gov.bd/",
+        "category": "birth-reg",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/logo-1.png",
+        "type": "free",
+        "description": "Online birth certificate print (multi copy)"
+    },
+    {
+        "id": "item_b11",
+        "title": "এনআইডি স্মার্ট কার্ড স্ট্যাটাস",
+        "url": "https://services.nidw.gov.bd/",
+        "category": "nid-card",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/ec.png",
+        "type": "free",
+        "description": "NID smart card delivery status"
+    },
+    {
+        "id": "item_b12",
+        "title": "প্রাথমিক শিক্ষক বদলি",
+        "url": "https://dgprimaryeducation.portal.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/12/primary_logo-300x300.png",
+        "type": "free",
+        "description": "Primary teacher transfer application"
+    },
+    {
+        "id": "item_b13",
+        "title": "মাধ্যমিক শিক্ষক বদলি",
+        "url": "https://dshe.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/11/dshe-e1763233397542.png",
+        "type": "free",
+        "description": "Secondary teacher transfer apply"
+    },
+    {
+        "id": "item_b14",
+        "title": "অনলাইন ভোটার তালিকা",
+        "url": "https://services.nidw.gov.bd/voter/",
+        "category": "nid-card",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/ec.png",
+        "type": "free",
+        "description": "Voter list search & download"
+    },
+    {
+        "id": "item_b15",
+        "title": "ড্রাইভিং লাইসেন্স রিনিউ",
+        "url": "https://bsp.brta.gov.bd/",
+        "category": "driving-li",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/10/brta.jpg",
+        "type": "free",
+        "description": "Online driving license renewal"
+    },
+    {
+        "id": "item_b16",
+        "title": "ফ্রিল্যান্সার টিন",
+        "url": "https://nbr.gov.bd/",
+        "category": "vat-tin",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "Freelancer TIN registration guide"
+    },
+    {
+        "id": "item_b17",
+        "title": "অনলাইন জমির মিউটেশন স্ট্যাটাস",
+        "url": "https://mutation.land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/Land_Logo_live.jpg",
+        "type": "free",
+        "description": "Land mutation application status"
+    },
+    {
+        "id": "item_b18",
+        "title": "খতিয়ান অনলাইন চেক",
+        "url": "https://rs.land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/vumi-logo.png",
+        "type": "free",
+        "description": "RS / BS Khatian online search"
+    },
+    {
+        "id": "item_b19",
+        "title": "পাসপোর্ট রিনিউ",
+        "url": "https://www.epassport.gov.bd/",
+        "category": "passport",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-right-sm.png",
+        "type": "free",
+        "description": "Passport renewal application"
+    },
+    {
+        "id": "item_b20",
+        "title": "অনলাইন পুলিশ ভেরিফিকেশন",
+        "url": "https://verification.police.gov.bd/",
+        "category": "police-pub",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/01/police.png",
+        "type": "free",
+        "description": "Police verification request online"
+    },
+    {
+        "id": "item_b21",
+        "title": "সচিবালয় চাকরির নোটিশ",
+        "url": "https://www.mopa.gov.bd/",
+        "category": "govt-empl",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "Ministry job circular & notice"
+    },
+    {
+        "id": "item_b22",
+        "title": "বয়স্ক ভাতা স্ট্যাটাস",
+        "url": "https://dss.bhata.gov.bd/",
+        "category": "vata-gov",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/dss-logo-e1762198189967.png",
+        "type": "free",
+        "description": "Old age allowance status check"
+    },
+    {
+        "id": "item_b23",
+        "title": "প্রতিবন্ধী ভাতা স্ট্যাটাস",
+        "url": "https://dss.bhata.gov.bd/",
+        "category": "vata-gov",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/dss-logo-e1762198189967.png",
+        "type": "free",
+        "description": "Disability allowance status"
+    },
+    {
+        "id": "item_b24",
+        "title": "এসএসসি সময়সূচি",
+        "url": "https://www.educationboard.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "SSC routine & schedule"
+    },
+    {
+        "id": "item_b25",
+        "title": "HSC সময়সূচি",
+        "url": "https://www.educationboard.gov.bd/",
+        "category": "education-bord",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "HSC exam routine"
+    },
+    {
+        "id": "item_b26",
+        "title": "জাতীয় বিশ্ববিদ্যালয় রুটিন",
+        "url": "https://www.nu.ac.bd/",
+        "category": "national-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/09/NU.png",
+        "type": "free",
+        "description": "NU exam routine & notice"
+    },
+    {
+        "id": "item_b27",
+        "title": "উন্মুক্ত বিশ্ববিদ্যালয় রুটিন",
+        "url": "https://www.bou.ac.bd/",
+        "category": "open-uni",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2024/02/open.png",
+        "type": "free",
+        "description": "BOU exam routine"
+    },
+    {
+        "id": "item_b28",
+        "title": "অনলাইন মার্কশিট ডাউনলোড",
+        "url": "https://eboardresults.com/",
+        "category": "result-live",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2023/03/govt_logo-300x300.png",
+        "type": "free",
+        "description": "SSC/HSC marksheet download"
+    },
+    {
+        "id": "item_b29",
+        "title": "অনলাইন ভূমি রেকর্ড",
+        "url": "https://land.gov.bd/",
+        "category": "land-all",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/Land_Logo_live.jpg",
+        "type": "free",
+        "description": "Land record & RS / BS search"
+    },
+    {
+        "id": "item_b30",
+        "title": "ডিজিটাল সনদ ডাউনলোড",
+        "url": "https://prottoyon.gov.bd/",
+        "category": "police-pub",
+        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/logo-1.jpg",
+        "type": "free",
+        "description": "Digital character certificate download"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "id": "cat_1",
+        "slug": "open-uni",
+        "name": "উন্মুক্ত বিশ্ববিদ্যালয়"
+    },
+    {
+        "id": "cat_2",
+        "slug": "birth-reg",
+        "name": "জন্ম নিবন্ধন"
+    },
+    {
+        "id": "cat_3",
+        "slug": "nid-card",
+        "name": "জাতীয় পরিচয় পত্র"
+    },
+    {
+        "id": "cat_4",
+        "slug": "national-uni",
+        "name": "জাতীয় বিশ্ববিদ্যালয়"
+    },
+    {
+        "id": "cat_5",
+        "slug": "vax",
+        "name": "টিকা"
+    },
+    {
+        "id": "cat_6",
+        "slug": "ticket",
+        "name": "টিকেট"
+    },
+    {
+        "id": "cat_7",
+        "slug": "driving-li",
+        "name": "ড্রাইভিং লাইসেন্স"
+    },
+    {
+        "id": "cat_8",
+        "slug": "public-uni",
+        "name": "পাবলিক বিশ্ববিদ্যালয়"
+    },
+    {
+        "id": "cat_9",
+        "slug": "passport",
+        "name": "পাসপোর্ট"
+    },
+    {
+        "id": "cat_10",
+        "slug": "police-pub",
+        "name": "পুলিশ ও নাগরিক"
+    },
+    {
+        "id": "cat_11",
+        "slug": "probasi",
+        "name": "প্রবাসী"
+    },
+    {
+        "id": "cat_12",
+        "slug": "admit",
+        "name": "প্রবেশ পত্র"
+    },
+    {
+        "id": "cat_13",
+        "slug": "electricity",
+        "name": "বিদ্যুৎ"
+    },
+    {
+        "id": "cat_14",
+        "slug": "vata-gov",
+        "name": "ভাতা"
+    },
+    {
+        "id": "cat_15",
+        "slug": "visa",
+        "name": "ভিসা"
+    },
+    {
+        "id": "cat_16",
+        "slug": "land-all",
+        "name": "ভূমি সংক্রান্ত"
+    },
+    {
+        "id": "cat_17",
+        "slug": "vat-tin",
+        "name": "ভ্যাট / ই-টিন"
+    },
+    {
+        "id": "cat_18",
+        "slug": "freedom-fighter",
+        "name": "মুক্তিযোদ্ধা"
+    },
+    {
+        "id": "cat_19",
+        "slug": "medical",
+        "name": "মেডিকেল"
+    },
+    {
+        "id": "cat_20",
+        "slug": "result-live",
+        "name": "রেজাল্ট"
+    },
+    {
+        "id": "cat_21",
+        "slug": "education-bord",
+        "name": "শিক্ষা বোর্ড"
+    },
+    {
+        "id": "cat_22",
+        "slug": "govt-empl",
+        "name": "সরকারি চাকরিজীবী"
+    },
+    {
+        "id": "cat_23",
+        "slug": "studio-tools",
+        "name": "স্টুডিও টুলস্"
+    }
+]
