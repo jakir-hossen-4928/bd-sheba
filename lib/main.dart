@@ -11,6 +11,7 @@ import 'package:in_app_update/in_app_update.dart';
 import 'models/service_model.dart';
 import 'providers/services_provider.dart';
 import 'providers/history_provider.dart';
+import 'providers/update_provider.dart';
 import 'providers/settings_provider.dart';
 import 'theme/app_theme.dart';
 import 'screens/main_wrapper.dart';
@@ -105,6 +106,7 @@ class _MainAppState extends ConsumerState<MainApp> with WidgetsBindingObserver {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       AdHelper.showAppOpenAdIfAvailable();
       _checkForUpdate();
+      ref.read(updateProvider.notifier).checkForUpdate();
     });
   }
 

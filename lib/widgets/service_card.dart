@@ -38,12 +38,14 @@ class ServiceCard extends ConsumerWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(24),
           side: BorderSide(
-            color: colorScheme.outlineVariant.withOpacity(isDark ? 0.3 : 0.5),
+            color: colorScheme.outlineVariant.withValues(
+              alpha: isDark ? 0.3 : 0.5,
+            ),
           ),
         ),
         clipBehavior: Clip.antiAlias,
         color: isDark
-            ? colorScheme.surface.withOpacity(0.7)
+            ? colorScheme.surface.withValues(alpha: 0.7)
             : colorScheme.surface,
         child: InkWell(
           onTap: () {

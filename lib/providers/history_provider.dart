@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
@@ -11,16 +12,14 @@ class HistoryNotifier extends Notifier<List<String>> {
   @override
   List<String> build() {
     _box = ref.watch(historyBoxProvider);
-    final initial = List<String>.from(_box.values);
-    if (initial.length > 20) {
-      return initial.sublist(initial.length - 20);
+    final historyList = _box.get('history_list');
+    if (historyList != null) {
+      return List<String>.from(jsonDecode(historyList));
     }
-    return initial;
+    return [];
   }
 
   void addToHistory(String id) {
-    // If state was trimmed in build, use it.
-    // Logic: remove if exists, add to end (most recent).
     final newState = List<String>.from(state);
     newState.remove(id);
     newState.add(id);
@@ -30,10 +29,7 @@ class HistoryNotifier extends Notifier<List<String>> {
     }
 
     state = newState;
-    // Update box (simple implementation specific to this app logic)
-    // Note: box logic in original code was clear+addAll, keeping it.
-    _box.clear();
-    _box.addAll(newState);
+    _box.put('history_list', jsonEncode(newState));
   }
 }
 

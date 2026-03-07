@@ -29,6 +29,10 @@ class _ServiceDetailsScreenState extends ConsumerState<ServiceDetailsScreen> {
   void initState() {
     super.initState();
     _loadAd();
+    // Add to history as soon as the screen is viewed
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      ref.read(historyProvider.notifier).addToHistory(widget.service.id);
+    });
   }
 
   void _loadAd() {
@@ -70,7 +74,6 @@ class _ServiceDetailsScreenState extends ConsumerState<ServiceDetailsScreen> {
 
   Future<void> _launchService(BuildContext context) async {
     ref.read(servicesProvider.notifier).incrementClick(widget.service.id);
-    ref.read(historyProvider.notifier).addToHistory(widget.service.id);
 
     final useInAppBrowser = ref.read(settingsProvider).useInAppBrowser;
 
