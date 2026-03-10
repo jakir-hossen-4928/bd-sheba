@@ -10,7 +10,7 @@ class SettingsState {
   SettingsState({
     required this.themeMode,
     required this.locale,
-    this.useInAppBrowser = true,
+    this.useInAppBrowser = false,
   });
 
   SettingsState copyWith({
@@ -57,7 +57,7 @@ class SettingsNotifier extends Notifier<SettingsState> {
   }
 
   static bool _loadBrowserPref(SharedPreferences prefs) {
-    return prefs.getBool('useInAppBrowser') ?? true;
+    return prefs.getBool('useInAppBrowser') ?? false;
   }
 
   void setThemeMode(ThemeMode mode) {

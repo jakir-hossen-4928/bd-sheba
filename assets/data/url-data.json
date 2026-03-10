@@ -909,15 +909,6 @@
         "description": "HSC re-scrutiny / challenge application"
     },
     {
-        "id": "item_b04",
-        "title": "পল্লী বিদ্যুৎ বিল পরিশোধ",
-        "url": "https://pbsbilling.palli-bidyut.gov.bd/",
-        "category": "electricity",
-        "imageurl": "https://itlancerbd.com/wp-content/uploads/2025/11/polli-bidut.png",
-        "type": "free",
-        "description": "PBS electricity bill pay online"
-    },
-    {
         "id": "item_b05",
         "title": "ডেসকো বিল পরিশোধ",
         "url": "https://www.desco.org.bd/",

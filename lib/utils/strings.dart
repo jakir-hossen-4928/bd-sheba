@@ -30,4 +30,8 @@ class AppStrings {
   static String general(String lang) => lang == 'bn' ? 'সাধারণ' : 'General';
   static String useInAppBrowser(String lang) =>
       lang == 'bn' ? 'অ্যাপের ভিতরে ব্রাউজ করুন' : 'Use In-App Browser';
+  static String disclaimerText(String lang) =>
+      lang == 'bn'
+          ? 'সতর্কীকরণ: এই অ্যাপটি বাংলাদেশ সরকার বা কোনো সরকারি সংস্থার প্রতিনিধিত্ব করে না। অ্যাপটিতে প্রদর্শিত সকল তথ্য বিভিন্ন সরকারি ওয়েবসাইট থেকে সংগ্রহ করা হয়েছে। কোনো সরকারি ওয়েবসাইটের লিঙ্ক কাজ না করলে বা ডাউন থাকলে তার দায়ভার অ্যাপ কর্তৃপক্ষের নয়।'
+          : 'Disclaimer: This app does not represent the Bangladesh Government or any government entity. The information provided in this app is sourced from various public government websites. We are not responsible if any source government link is broken, inaccessible, or down as their availability depends on the respective authorities.';
 }
